@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blackbaud-RyanSnedegar
 - 👀 I’m interested in machine learning, particularly voice tools.
-- 🌱 I’m currently learning how to connect multiple sources to one LLM.
+- 🌱 I’m currently learning how to connect multiple live information sources to one LLM.
 - 💞️ I’m looking to collaborate on something interesting that can help further our skills.
 - 📫 You can reach me here, or at my work address.  Or personal.  But probably here.
 
